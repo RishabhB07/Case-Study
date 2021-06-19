@@ -1,0 +1,25 @@
+body{
+    font-family: 'Rokkitt', serif;
+    background: blue;
+}
+.header_div{
+    background: white;
+    color: blue;
+}
+.header_div img{
+    width: 100px;
+}
+ol{
+    font-size: 25px;
+}
+#test_image{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+h5{
+    font-size: 20px;
+}
+h4{
+    font-size: 30px;
+}
